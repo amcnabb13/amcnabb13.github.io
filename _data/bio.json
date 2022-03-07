@@ -1,57 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Austin McNabb",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://amcnabb13.github.io/images/molly.png",
+    "email": "austinmcnabb13@gmail.com",
+    "phone": "(513)900-7065",
+    "website": "https://amcnabb13.github.io",
+    "summary": "I am student at Sullivan University working towards my bachelor degree in Cybersecurity.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "446 Williams Road",
+      "postalCode": "40299",
+      "city": "Louisville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Kentucky"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "amcnabb13",
+        "url": "http://github.com/amcnabb13"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Austin McNabb",
+        "url": "https://www.linkedin.com/in/austin-mcnabb-434043206/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "agmcnabb",
+        "url": "https://twitter.com/agmcnabb"
       }
-    ]
+     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Networking",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cyber Security",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "SpaceX",
       "keywords": [
       ]
     }
