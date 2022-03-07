@@ -51,107 +51,81 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Languages",
+      "level": "Beginner",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
+      "name": "Computer Hardware",
+      "level": "Advanced",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Repairs",
+        "Troubleshooting"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Sullivan, Louisville, KY",
+      "area": "Computer Science (expected Spring, 2022)",
+      "studyType": "A.S.",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Rite-Way Autoglass",
+      "position": "Technician",
+      "startDate": "2022-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      "summary": "Repair/Replace glass on vehicles/heavy equipment"
       ]
-    },
+    }
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "company": "Trufit Autoglass",
+      "position": "Technician",
+      "startDate": "2021-07-21",
+      "endDate": "2021-11-15",
+      "summary": "Repair/Replace glass on vehicles",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "company": "Safelite Autoglass",
+      "position": "Technician/Dispatcher",
+      "website": "https://www.safelite.com/",
+      "startDate": "2016-03-15",
+      "endDate": "2021-03-25",
+      "summary": "Repair/Replace glass on vehicles and dispatch technician routes"
       ]
-    },
+    }
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "organization": "Kenworth of Cincinnati",
+      "position": "Professional Diesel Mechanic",
+      "startDate": "2015-03-10",
+      "endDate": "2015-07-18",
+      "summary": "Conduct repairs and preventative maintenance on semi-trucks"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Technician of the Year",
+      "date": "2017-Present",
+      "awarder": "Safelite",
+      "summary": "Award for best quality performance while going above and beyond in all other requirements in customer service and satisfaction."
     }
+   
   ],
   "references": [
     {
