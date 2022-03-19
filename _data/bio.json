@@ -78,7 +78,7 @@
       "endDate": "Present",
       "gpa": "3.0",
       "courses": [
-      ]
+        ]
     }
   ],
   "work": [
@@ -87,7 +87,7 @@
       "position": "Technician",
       "startDate": "2022-01-01",
       "endDate": "Present",
-      "summary": "Repaired/Replaceed glass on vehicles/heavy equipment"
+      "summary": "Repaired/Replaceed glass on vehicles/heavy equipment" [
       ]
     },
     {
@@ -95,7 +95,7 @@
       "position": "Technician",
       "startDate": "2021-07-21",
       "endDate": "2021-11-15",
-      "summary": "Repair/Replace glass on vehicles",
+      "summary": "Repair/Replace glass on vehicles", [
       ]
     },
     {
@@ -104,7 +104,7 @@
       "website": "https://www.safelite.com/",
       "startDate": "2016-03-15",
       "endDate": "2021-03-25",
-      "summary": "Repair/Replace glass on vehicles and dispatch technician routes"
+      "summary": "Repair/Replace glass on vehicles and dispatch technician routes" [
       ]
     },
     {
@@ -112,7 +112,7 @@
       "position": "Professional Diesel Mechanic",
       "startDate": "2015-03-10",
       "endDate": "2015-07-18",
-      "summary": "Conduct repairs and preventative maintenance on semi-trucks"
+      "summary": "Conduct repairs and preventative maintenance on semi-trucks" [
       ]
     }
   ],
